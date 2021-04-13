@@ -16,6 +16,6 @@ Player implementations (random and Minimax)
 
 Tools and player implementation for state database
 
-## state.db
+## states.db
 
 Pre-built state database, can be rebuilt with state_db.build_db()
